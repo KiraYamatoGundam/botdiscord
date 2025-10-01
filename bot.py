@@ -251,4 +251,5 @@ async def logs(ctx, limit: int = 20):
 
 
 # 🚀 Lancement
-bot.run("MTI1MTE3MDIwOTQzNjQwMTY5Ng.GM2WJM.EoZAljyhLapN2eMzPTQD4BcuqIbPyUkHxjfvn0")
+bot.run("Token")
+
